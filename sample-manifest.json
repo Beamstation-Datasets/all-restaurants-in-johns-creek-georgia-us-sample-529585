@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1858e2bc-69db-40e9-84ea-4bd166018e97",
+  "export_job_id": "0deb0b63-a6fc-4d70-94c1-54f10b38675f",
   "id_short": 529585,
-  "published_at": "2026-04-19T19:17:02Z",
+  "published_at": "2026-04-23T19:28:32Z",
   "repo_name": "all-restaurants-in-johns-creek-georgia-us-sample-529585",
   "sample_asset_name": "beamstation_529585_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/529585/beamstation_529585_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "677c437074251282254d5d926759481300703b7522c057f07fd5136b56eb2bff",
-  "sample_size_bytes": 115680,
-  "total_records": 304
+  "sample_records": 22,
+  "sample_sha256": "07d19d23c9d16139e2edaae27b28fc7ac9fd0f81e7503d1bcf587e4fb2cc8ba8",
+  "sample_size_bytes": 97728,
+  "total_records": 223
 }
