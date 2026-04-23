@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Johns Creek, Georgia. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Johns Creek, Georgia, US",
-  "export_job_id": "1858e2bc-69db-40e9-84ea-4bd166018e97",
+  "export_job_id": "0deb0b63-a6fc-4d70-94c1-54f10b38675f",
   "github_org": "Beamstation-Datasets",
   "id_short": 529585,
   "location_name": "Johns Creek",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-johns-creek-georgia-us-sample-529585",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/529585/beamstation_529585_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_pct": 9.87,
-  "sample_records": 30,
-  "sample_sha256": "677c437074251282254d5d926759481300703b7522c057f07fd5136b56eb2bff",
-  "sample_size_bytes": 115680,
-  "total_records": 304,
-  "updated_at": "2026-04-16T11:56:47.300341+00:00"
+  "sample_records": 22,
+  "sample_sha256": "07d19d23c9d16139e2edaae27b28fc7ac9fd0f81e7503d1bcf587e4fb2cc8ba8",
+  "sample_size_bytes": 97728,
+  "total_records": 223,
+  "updated_at": "2026-04-23T11:24:57.475072+00:00"
 }
